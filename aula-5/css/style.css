@@ -1,0 +1,52 @@
+body
+{
+    margin: 0 auto;
+    width: 800px;
+    right: 800px;
+    background-color: rgb(46, 45, 45);
+}
+
+
+    .cabecalho
+            
+        {   
+            padding: 10px;
+            border-radius: 2px rgb(133, 133, 133);
+            margin: 0px;
+            justify-content: space-around;
+            align-items: center;
+            flex-direction: row;
+            width: 800px;
+            display: flex;
+            background-color: rgb(65, 65, 65);
+        }
+    .pai
+        {   margin: 0 auto;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            right: 100%;
+            background-color: rgb(4, 34, 34);
+        }
+        .element-2
+        {
+            width: 750px;
+            justify-content: start;
+            display: flex;
+            color: rgb(138, 138, 138);
+            
+        }
+        .element-1
+        {
+            justify-content: start;
+            display: flex;
+            right: 500px;
+        }
+        button
+        {
+            margin: 0 auto;
+            padding: 10px;
+            border-radius: 2cm rgb(22,3,4);
+            background-color: blanchedalmond
+        }
